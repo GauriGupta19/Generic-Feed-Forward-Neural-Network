@@ -5,14 +5,13 @@ database of handwritten digits that is commonly used for training various image 
 ## Resources
 Chapter 6, Neural Networks - A Classroom Approach by Satish Kumar
 Additional References:
-1. [](https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)
-2. [GPflow](https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e)
+1. [Understanding backpropagation](https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)
+2. [NNets and backpropagation](https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e)
 
 Alternative Approach (Using Computation Graph):
-1. [](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture4.pdf)
+1. [Backpropagation and Neural Networks using Computation Graph](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture4.pdf)
 
 Extra topics studied for the assignment
-1. Overfitting and Underfitting
-1. [](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)
-2. [](https://towardsdatascience.com/what-are-overfitting-and-underfitting-in-machine-learning-a96b30864690)
+1. [Understanding Overfitting and underfitting using a complete example](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)
+2. [Overfitting and Underfitting](https://towardsdatascience.com/what-are-overfitting-and-underfitting-in-machine-learning-a96b30864690)
 2. [Regularization](https://www.analyticsvidhya.com/blog/2015/02/avoid-over-fitting-regularization/)
